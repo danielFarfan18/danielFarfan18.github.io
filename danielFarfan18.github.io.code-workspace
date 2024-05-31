@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/html5up-miniport"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "danielFarfan18.github.io"
+	}
+}
